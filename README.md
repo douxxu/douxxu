@@ -8,7 +8,7 @@ $ doufetch
  ?##G^           Resolution: 1m80x50cm  
 !##B^            CPU: (1) @ 80bpm  
 5##P             Ram: 0.4kiB / 0.7kiB  
-Y##G.            CPU Usage: 98%  
+Y##G.            CPU Usage: 2%  
 ^B##P!:.         Disk (/): 468TiB / 2500TiB (18%)  
  :JG###BGPJ!.    Local IP: 127.0.0.1  
     :~7?YG##P    Users: douxx  
