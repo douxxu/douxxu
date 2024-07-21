@@ -1,4 +1,4 @@
-  YGGGGGPPPPGJ   douxx@douxxu  
+```  YGGGGGPPPPGJ   douxx@douxxu  
  !777!!?G&#G!    -----------  
      :YB#Y^      Host: Raspberry Pi 5 Model B Rev 1.0  
    :Y#&5^        Uptime: ![uptime](https://douxxu.github.io/uptime)  
@@ -14,3 +14,4 @@ Y##G.            Disk (/): 36G / 918G (5%)
         :P#P.    Npmjs: @douxx  
          .:      Discord: @douxx.xyz  
                  Website: https://douxx.xyz  
+```
