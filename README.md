@@ -18,3 +18,5 @@ Y##G.            CPU Usage: 2%
                  Discord: @douxx.xyz  
                  Website: https://douxx.xyz  
 ```
+
+![My cool ahhh stats](https://github-readme-stats.vercel.app/api?username=douxxu&show_icons=true&theme=midnight-purple)
