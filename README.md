@@ -4,7 +4,7 @@ $ doufetch
  !777!!?G&#G!    -----------  
      :YB#Y^      Host: Raspberry Pi 5 Model B Rev 1.0
    :Y#&5^        Location: Switzerland
-  !B&B!          Uptime: Snice september 2008
+  !B&B!          Uptime: Since september 2008
  ?##G^           Resolution: 1m80x50cm  
 !##B^            CPU: (1) @ 80bpm  
 5##P             Ram: 0.4kiB / 0.7kiB  
