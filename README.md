@@ -1,4 +1,6 @@
 ## Introduction
+
+<div align="center">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E48F7&width=435&lines=Founder+of+DouBots+%26+PiWave;Used+by+more+than+200'000+users;1+Year+of+coding+experience" /></a>
 </p>
@@ -14,6 +16,8 @@
    <a href="https://github.com/douxxu"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/douxxu?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
  </p>
+
+</div>
  
 ## Profile Views
 
