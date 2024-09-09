@@ -45,7 +45,7 @@
 
 ## What I'm Doing
 
-- 🔭 Working on [Websites](https://douxx.xyz/douxx)/[Discord Bots](https://douxx.xyz)/[Utilities Development](https://piwave.hs.vc)
+- 🔭 Working on [Websites](https://douxx.xyz/douxx)/[Discord Bots](https://douxx.xyz)/[Utilities](https://piwave.hs.vc) development
 - 🌱 Learning Node.js & Python
 - 📫 How to contact me: douxx@douxx.xyz
 
