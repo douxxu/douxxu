@@ -76,3 +76,6 @@
 
 ---
 Don't forget, 2+2=7
+
+---
+I use arch btw
