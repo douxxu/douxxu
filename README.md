@@ -70,7 +70,7 @@
   <p align="left">
      <a href="https://github.com/douxxu/Doual"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=douxxu&repo=Doual&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/douxxu/floppy-qr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=douxxu&repo=floppy-qr&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/PiWave/piwave-webgui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=douxxu&repo=piwave-webgui&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/douxxu/piwave-webgui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=douxxu&repo=piwave-webgui&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 
