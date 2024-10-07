@@ -1,5 +1,3 @@
-## Introduction
-
 <div align="center">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E48F7&width=435&lines=Founder+of+DouBots+%26+PiWave;Used+by+more+than+200'000+users;1+Year+of+coding+experience" /></a>
@@ -66,11 +64,13 @@
 </a> 
 </p>
 
+[![Douxxu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douxxu&theme=nightowl)](https://github.com/douxxu)
+
 ## Top Respositorys
   <p align="left">
      <a href="https://github.com/douxxu/Doual"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=douxxu&repo=Doual&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/douxxu/floppy-qr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=douxxu&repo=floppy-qr&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/PiWave/piwave-webgui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=PiWave-fm&repo=piwave-webgui&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/PiWave/piwave-webgui"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=douxxu&repo=piwave-webgui&theme=midnight-purple&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 
