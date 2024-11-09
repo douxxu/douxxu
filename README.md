@@ -5,6 +5,7 @@
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/douxxu">Douxx</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<h6 align="center">Chatgpt once said: "You’re that techie friend who could automate your whole house with a Raspberry Pi but would forget to plug in the toaster.". He's right.</h2>
 
 <p align="center">
   <a href="https://discord.com/users/1117912749146656790"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
