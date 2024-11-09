@@ -44,9 +44,9 @@
 
 ## What I'm Doing
 
-- 🔭 Working on [Websites](https://douxx.xyz/douxx)/[Discord Bots](https://douxx.xyz)/[Utilities](https://piwave.hs.vc) development
+- 🔭 Working on [Websites](https://douxx.tech) / [Discord Bots](https://douxx.xyz) / [Utilities](https://piwave.xyz) development
 - 🌱 Learning Node.js & Python
-- 📫 How to contact me: douxx@douxx.xyz
+- 📫 How to contact me: douxx@douxx.tech
 
 ## Languages and Tools
 
